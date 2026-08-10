@@ -1,7 +1,7 @@
-# AI Usage Report — Pratibha QA Assignment AI
+# AI Usage Report — NishantQA Assignment AI
 
-**Project:** Pratibha QA Assignment AI  
-**Author:** Pratibha Mishra  
+**Project:** NishantQA Assignment AI  
+**Author:** NishantMishra  
 **Date:** 2026-08-07  
 **AI Tool Used:** Kiro AI (Claude Sonnet 4.5)
 
@@ -975,7 +975,7 @@ Kiro AI (Claude Sonnet 4.5) served as:
 
 ---
 
-**Report Prepared By:** Pratibha Mishra  
+**Report Prepared By:** NishantMishra  
 **Date:** 2026-08-07  
 **AI Tool:** Kiro AI (Claude Sonnet 4.5)  
 **Project Status:** ✅ All automated tests passing, ready for submission
