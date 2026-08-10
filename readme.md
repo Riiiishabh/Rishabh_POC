@@ -1,4 +1,4 @@
-# Pratibha QA Assignment AI
+# Nishant QA Assignment AI
 
 Playwright JavaScript automation suite for the Practice Software Testing Toolshop UI and API, following the Prism pattern: Page Object Model, reusable API client, runtime data factory, and custom fixtures.
 
