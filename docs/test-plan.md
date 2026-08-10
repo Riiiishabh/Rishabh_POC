@@ -1,11 +1,11 @@
-# Test Plan — Pratibha QA Assignment AI
+# Test Plan — Nishant QA Assignment AI
 
-**Project:** Pratibha QA Assignment AI  
+**Project:** Nishant QA Assignment AI  
 **System Under Test:** Practice Software Testing Toolshop v5  
 **UI:** https://practicesoftwaretesting.com  
 **API:** https://api.practicesoftwaretesting.com  
 **Date:** 2026-08-07  
-**Author:** Pratibha Mishra  
+**Author:** Nishant Mishra  
 **Last Execution:** 2026-08-07  
 **Status:** ✅ All Automated Tests Passing
 
