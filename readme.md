@@ -38,7 +38,7 @@ This project covers a **different functional area** from the reference assessmen
 ## Setup
 
 ```bash
-cd "Pratibha QA Assignment AI/PrismStructure"
+cd "Nishant QA Assignment AI/PrismStructure"
 npm install
 npm run install:browsers
 ```
@@ -123,7 +123,7 @@ Each test has its own spec file named `{feature}-{scenario-class}.spec.js`.
 
 ## Test data
 
-- Unique synthetic `Pratibha Tester` customer per mutating test.
+- Unique synthetic `Nishant Tester` customer per mutating test.
 - Runtime selection of current in-stock, non-rental products.
 - New cart per lifecycle test.
 - In-memory passwords and tokens; sensitive fields are redacted from logs.
