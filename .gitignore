@@ -1,0 +1,10 @@
+node_modules/
+PrismStructure/reports/*
+!PrismStructure/reports/.gitkeep
+!PrismStructure/reports/results.json
+!PrismStructure/reports/junit.xml
+!PrismStructure/reports/html/
+PrismStructure/reports/html/*
+!PrismStructure/reports/html/index.html
+PrismStructure/test-results/
+.env
