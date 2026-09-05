@@ -30,7 +30,7 @@ This project covers a **different functional area** from the reference assessmen
 
 ## Prerequisites
 
-- Node.js 18 or newer.
+- Node.js 20 or newer (required by Playwright 1.62+).
 - npm.
 - Internet access to the Toolshop UI/API.
 - Windows, macOS, or Linux capable of running Playwright Chromium.
@@ -38,7 +38,8 @@ This project covers a **different functional area** from the reference assessmen
 ## Setup
 
 ```bash
-cd "Rishabh QA Assignment AI/PrismStructure"
+git clone https://github.com/Riiiishabh/Rishabh_POC.git
+cd Rishabh_POC/PrismStructure
 npm install
 npm run install:browsers
 ```
