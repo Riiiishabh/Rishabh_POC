@@ -1,7 +1,7 @@
 {
-  "name": "pratibha-qa-assignment-ai",
+  "name": "rishabh-qa-assignment-ai",
   "version": "1.0.0",
-  "description": "Playwright automation suite for Practice Software Testing Toolshop — Pratibha QA Assignment AI",
+  "description": "Playwright automation suite for Practice Software Testing Toolshop — Rishabh QA Assignment AI",
   "main": "index.js",
   "scripts": {
     "test": "playwright test",
@@ -18,7 +18,7 @@
     "install:browsers": "playwright install chromium --with-deps"
   },
   "keywords": [],
-  "author": "Pratibha Mishra",
+  "author": "Rishabh Mishra",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
