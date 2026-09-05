@@ -178,7 +178,7 @@ API Tests (Backend validation):
 #### Test Environment Strategy
 **AI Advised:**
 - Use shared public environment (no test data isolation)
-- Generate unique users per test (`pratibha.qa.{timestamp}@example.com`)
+- Generate unique users per test (`rishabh.qa.{timestamp}@example.com`)
 - Runtime product selection (no hard-coded IDs)
 - Handle Cloudflare challenges with retry logic
 
@@ -407,9 +407,9 @@ class DataFactory {
     const timestamp = Date.now();
     const random = Math.random().toString(36).substring(2, 8);
     return {
-      first_name: 'Pratibha',
+      first_name: 'Rishabh',
       last_name: 'Tester',
-      email: `pratibha.qa.${timestamp}-${random}@example.com`,
+      email: `rishabh.qa.${timestamp}-${random}@example.com`,
       password: this.generateSecurePassword(),
       dob: '1990-01-01',
       address: '123 Test Street',
@@ -564,9 +564,9 @@ createCustomer() {
   const timestamp = Date.now();
   const random = Math.random().toString(36).substring(2, 8);
   return {
-    first_name: 'Pratibha',
+    first_name: 'Rishabh',
     last_name: 'Tester',
-    email: `pratibha.qa.${timestamp}-${random}@example.com`,
+    email: `rishabh.qa.${timestamp}-${random}@example.com`,
     password: `Test@${random}${timestamp}`,
     dob: '1990-01-01',
     // ... other fields
@@ -606,9 +606,9 @@ async getPurchasableProducts(client) {
 **Registration Payload (AI Generated):**
 ```javascript
 {
-  "first_name": "Pratibha",
+  "first_name": "Rishabh",
   "last_name": "Tester",
-  "email": "pratibha.qa.1786099027967-6d6602@example.com",
+  "email": "rishabh.qa.1786099027967-6d6602@example.com",
   "password": "Test@abc123",
   "dob": "1990-01-01",
   "address": "123 Test Street",
@@ -715,7 +715,7 @@ redactSensitive(data) {
 **Output:**
 ```json
 {
-  "email": "pratibha.qa.123@example.com",
+  "email": "rishabh.qa.123@example.com",
   "password": "***REDACTED***",
   "token": "***REDACTED***"
 }
