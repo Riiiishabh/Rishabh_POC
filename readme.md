@@ -1,4 +1,4 @@
-# Nishant QA Assignment AI
+# Rishabh QA Assignment AI
 
 Playwright JavaScript automation suite for the Practice Software Testing Toolshop UI and API, following the Prism pattern: Page Object Model, reusable API client, runtime data factory, and custom fixtures.
 
@@ -38,7 +38,7 @@ This project covers a **different functional area** from the reference assessmen
 ## Setup
 
 ```bash
-cd "Nishant QA Assignment AI/PrismStructure"
+cd "Rishabh QA Assignment AI/PrismStructure"
 npm install
 npm run install:browsers
 ```
@@ -123,7 +123,7 @@ Each test has its own spec file named `{feature}-{scenario-class}.spec.js`.
 
 ## Test data
 
-- Unique synthetic `Nishant Tester` customer per mutating test.
+- Unique synthetic `Rishabh Tester` customer per mutating test.
 - Runtime selection of current in-stock, non-rental products.
 - New cart per lifecycle test.
 - In-memory passwords and tokens; sensitive fields are redacted from logs.
