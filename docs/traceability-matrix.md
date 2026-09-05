@@ -1,4 +1,4 @@
-# Traceability Matrix — Nishant QA Assignment AI
+# Traceability Matrix — Rishabh QA Assignment AI
 
 **Last Updated:** 2026-08-07  
 **Execution Status:** ✅ All Automated Tests Passing (24/24)
