@@ -7,7 +7,7 @@ function uniqueSuffix() {
 function createUser(overrides = {}) {
   const suffix = uniqueSuffix();
   const user = {
-    first_name: 'Pratibha',
+    first_name: 'Rishabh',
     last_name: 'Tester',
     dob: '1992-06-20',
     address: {
@@ -19,7 +19,7 @@ function createUser(overrides = {}) {
       postal_code: '1234AA',
     },
     phone: '0698765432',
-    email: `pratibha.qa.${suffix}@example.com`,
+    email: `rishabh.qa.${suffix}@example.com`,
     password: `Qa!${suffix}Ab9`,
   };
 
