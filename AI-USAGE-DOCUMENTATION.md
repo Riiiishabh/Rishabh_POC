@@ -1,7 +1,7 @@
-# AI Usage Documentation — Nishant QA Assignment AI
+# AI Usage Documentation — Rishabh QA Assignment AI
 
-**Project Name:** Nishant QA Assignment AI  
-**Author:** Nishant Mishra  
+**Project Name:** Rishabh QA Assignment AI  
+**Author:** Rishabh Mishra  
 **Date:** 2026-08-07  
 **Primary AI Tool:** Kiro AI (Claude Sonnet 4.5)
 
@@ -343,9 +343,9 @@ This project is a comprehensive **Playwright-based test automation suite** for t
 1. **Synthetic User Generation**
    ```javascript
    AI created DataFactory.createCustomer():
-   - Unique email: Nishant.qa.{timestamp}-{random}@example.com
-   - Password: NishantTest123!
-   - First name: Nishant
+   - Unique email: Rishabh.qa.{timestamp}-{random}@example.com
+   - Password: RishabhTest123!
+   - First name: Rishabh
    - Last name: Tester
    - Address, city, state, country, postcode
    - DOB: 1990-01-15
@@ -445,7 +445,7 @@ This project is a comprehensive **Playwright-based test automation suite** for t
 5. **Add Remote Repository**
    ```bash
    git remote add origin <your-github-repo-url>
-   # Example: git remote add origin https://github.com/username/Nishant-qa-assignment-ai.git
+   # Example: git remote add origin https://github.com/username/Rishabh-qa-assignment-ai.git
    ```
 
 6. **Push to Remote**
@@ -467,14 +467,14 @@ git push origin main
 #### Option 2: If Creating New Repository
 1. **Create GitHub Repository**
    - Go to GitHub.com → New Repository
-   - Name: `Nishant-qa-assignment-ai`
+   - Name: `Rishabh-qa-assignment-ai`
    - Description: "Playwright test automation suite with AI-driven design"
    - Public or Private (your choice)
    - Don't initialize with README (we already have one)
 
 2. **Link and Push**
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/Nishant-qa-assignment-ai.git
+   git remote add origin https://github.com/YOUR_USERNAME/Rishabh-qa-assignment-ai.git
    git push -u origin main
    ```
 
@@ -567,7 +567,7 @@ git push origin main
 
 ## Contact
 
-**Author:** Nishant Mishra  
-**Project:** Nishant QA Assignment AI  
+**Author:** Rishabh Mishra  
+**Project:** Rishabh QA Assignment AI  
 **Date:** 2026-08-07  
 **AI Tool:** Kiro AI (Claude Sonnet 4.5)
